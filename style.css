@@ -1,0 +1,11 @@
+li a {
+  font-size: .8em;
+}
+
+li {
+  list-style-type: none;
+}
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
